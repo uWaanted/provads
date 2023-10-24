@@ -1,6 +1,8 @@
 export default function Home() {
   return (
-    <h1 className="text-white"> Teste em branco </h1>
+    <div>
+      <h1 className="text-white">Teste em branco</h1>
+      <img src="/images/sua-imagem.jpg" alt="Descrição da imagem" />
+    </div>
   )
 }
-<img src= "/workspaces/provads/public/images" alt="Descrição"/>
