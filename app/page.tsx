@@ -8,7 +8,7 @@ export default function Home() {
       </header>
       <div>
         <Image
-          src="images/image.png"
+          src="/workspaces/provads/public/img/banner.jpg.svg"
           alt="Descrição da imagem"
           width={300} // Defina a largura desejada
           height={200} // Defina a altura desejada
