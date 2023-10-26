@@ -1,4 +1,4 @@
-export default function Banner() {
+export default function Section1() {
   return (
     <div>
       <div className="flex-1 flex items-center">
