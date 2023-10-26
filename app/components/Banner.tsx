@@ -1,7 +1,7 @@
 export default function Banner() {
   return (
     <div className="flex">
-      <div className="flex-1 text-left">
+      <div className="flex-1 flex items-center">
         <h1>TESTE</h1>
       </div>
       <div className="flex-1 text-right">
