@@ -1,7 +1,7 @@
 export default function Banner() {
-    return (
-        <div>
-          <img src="/img/banner.svg" alt="Descrição da Imagem"/>
-        </div>
-    );
-  }
+  return (
+    <div className="text-right">
+      <img src="/img/banner.svg" alt="Descrição da Imagem" />
+    </div>
+  );
+}
