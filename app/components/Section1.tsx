@@ -6,12 +6,7 @@ export default function Section1() {
         <h1 className="text-lg">
           A (modular, highly tweakable) responsive one-page template designed by UTFPR and released for free under the Creative Commons.
         </h1>
-        <a
-                        className=" bg-white b-2 rounded hover:bg-cyan hover:text-white justify-center"
-                        href="#"
-                    >
-                        Get Started
-                    </a>
+        <a href="#first" class="button large wide smooth-scroll-middle">Get Started</a>
       </div>
       <div className="flex-1 text-right">
         <img src="/img/banner.svg" alt="Descrição da Imagem" />
