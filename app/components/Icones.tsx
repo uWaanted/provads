@@ -1,6 +1,6 @@
 export default function Icones() {
     return (
-      <div className="wrapper md:flex items-center">
+      <div className="wrapper md:flex">
         <h2 className="text-3xl text-center">Ícones</h2>
           <p className="text-lg text-center">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
