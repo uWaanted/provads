@@ -7,13 +7,14 @@ export default function Icones() {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum.
         </p>
       </div>
+        
+        <div className="md:flex-1">
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Primeiro</h2>
           <p className="text-lg text-center">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
           </p>
         </div>
-        <div className="md:flex-1">
           <section className="border">
             <div className="text-center">
               <span>
