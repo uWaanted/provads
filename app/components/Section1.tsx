@@ -2,7 +2,7 @@ export default function Section1() {
   return (
     <div className="wrapper md:flex items-center flex-row-reverse">
       <div className="md:flex-1 text-right">
-        <img src="/img/banner.svg" alt="Descrição da Imagem" className="w-full" />
+        <img src="/img/banner.svg" alt="Banner" className="w-full" />
       </div>
       <div className="md:flex-1 flex flex-col justify-center">
         <h2 className="text-3xl text-center">UTFPR</h2>
