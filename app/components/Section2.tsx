@@ -1,6 +1,6 @@
 export default function Section2() {
     return (
-      <div className="wrapper md:flex items-center flex-row-reverse">
+      <div className="wrapper md:flex items-center">
         <div className="md:flex-1 text-left">
           <img src="/img/spotlight01.svg" alt="Spotlight" className="w-full" />
         </div>
