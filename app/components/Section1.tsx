@@ -1,20 +1,20 @@
 export default function Section1() {
   return (
-    <div className="flex">
-      <div className="flex-1 flex flex-col ">
-        <h3 className="text-3xl font-bold justify-center">UTFPR</h3>
-        <h1 className="text-lg">
-          A (modular, highly tweakable) responsive one-page template designed by UTFPR and released for free under the Creative Commons.
-        </h1>
-        <a
-      href="#"
-      className="bg-[#00e77f] text-white px-4 py-2 rounded hover:bg-[#3d3d3d] hover:text-white transition duration-300 ease-in-out"
-    >
-      Get Started
-    </a>
-      </div>
+    <div className="wrapper md:flex items-center flex-row-reverse">
       <div className="flex-1 text-right">
         <img src="/img/banner.svg" alt="Descrição da Imagem" />
+      </div>
+      <div className="flex-1 flex flex-col justify-center">
+        <h2 className="text-3xl text-center">UTFPR</h2>
+        <p className="text-lg text-center">
+          A (modular, highly tweakable) responsive one-page template designed by UTFPR and released for free under the Creative Commons.
+        </p>
+        <a
+          href="#"
+          className="border-2 border-transparent text-white bg-transparent px-4 py-2 rounded hover:border-cyan-500 hover:text-cyan-500 hover:bg-transparent mt-4"
+        >
+          Get Started
+        </a>
       </div>
     </div>
   );
