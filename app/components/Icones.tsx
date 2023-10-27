@@ -1,6 +1,6 @@
 export default function Icones() {
     return (
-      <div className="wrapper md:flex">
+      <div className="wrapper">
       <div className="text-center md:text-left md:flex-1">
         <h2 className="text-3xl">Ícones</h2>
         <p className="text-lg">
