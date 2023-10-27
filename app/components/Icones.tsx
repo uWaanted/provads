@@ -7,9 +7,9 @@ export default function Icones() {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum.
         </p>
       </div>
-        <div className="md:flex-1">]
+      <div className="md:flex md:space-x-4">
 
-        <section className="border-4 border-black">
+        <section className="border-4 border-black md:flex-1">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -17,7 +17,7 @@ export default function Icones() {
 </svg>
               </span>
             </div>
-        <div className="md:flex text-left">
+        <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Primeiro</h2>
           <p className="text-lg text-center">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
@@ -25,7 +25,7 @@ export default function Icones() {
         </div>
           </section>
 
-          <section className="border-4 border-black">
+          <section className="border-4 border-black md:flex-1">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -33,7 +33,7 @@ export default function Icones() {
 </svg>
               </span>
             </div>
-        <div className="md:flex text-left">
+        <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Segundo</h2>
           <p className="text-lg text-center">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
@@ -41,7 +41,7 @@ export default function Icones() {
         </div>
             
           </section>
-          <section className="border-4 border-black">
+          <section className="border-4 border-black md:flex-1">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -49,7 +49,7 @@ export default function Icones() {
 </svg>
               </span>
             </div>
-        <div className="md:flex text-left">
+        <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Terceiro</h2>
           <p className="text-lg text-center">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
