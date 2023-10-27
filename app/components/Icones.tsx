@@ -1,29 +1,57 @@
 export default function Icones() {
     return (
-      <div className="wrapper md:flex">
-        <h2 className="text-3xl text-center">Ícones</h2>
+        <div className="wrapper md:flex items-center">
+        <div className="md:flex-1 text-left">
+          <h2 className="text-3xl text-center">Primeiro</h2>
           <p className="text-lg text-center">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
             Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.
           </p>
-          <div>
-            <section className="border">
-            <div>
-            <h2 className="text-3xl text-center">Primeiro</h2>
-          <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
-            Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.
-          </p>
-          <span>
-          <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M45.7602 9.62109C45.5961 9.04688 45.0219 8.80078 44.5297 9.04688C44.0375 9.21094 43.7914 9.78516 44.0375 10.2773C44.9398 12.6562 45.432 15.1992 45.432 17.9062C45.432 28.8984 37.1469 38.0859 26.4828 39.4805V29.3086C27.1391 29.1445 27.7953 28.9805 28.3695 28.8164V37.3477C37.1469 35.2148 43.6273 27.3398 43.6273 17.9062C43.6273 10.3594 39.4437 3.79688 33.2914 0.433594C32.8812 0.105469 32.225 0.351562 32.0609 0.84375C31.8148 1.25391 31.9789 1.82812 32.3891 2.07422C37.9672 5.10938 41.7406 11.0977 41.7406 17.9062C41.7406 25.5352 36.9828 32.0977 30.2562 34.7227V27.1758C31.4867 26.8477 32.307 25.6992 32.307 24.4688C32.307 23.3203 31.7328 22.418 30.9125 21.9258C31.5687 15.4453 34.5219 17.0859 34.5219 15.0352V13.8047C34.5219 10.6875 27.3852 0.597656 23.9398 0.351562C23.7758 0.351562 23.5297 0.351562 23.3656 0.351562C20.0023 0.597656 12.7836 10.6875 12.7836 13.8047V15.0352C12.7836 17.168 15.7367 15.4453 16.393 21.9258C15.5727 22.418 14.9984 23.4023 14.9984 24.4688C14.9984 25.6992 15.9008 26.8477 17.0492 27.1758V34.7227C10.3227 32.0977 5.56484 25.5352 5.56484 17.9062C5.56484 11.0977 9.33828 5.10938 14.9164 2.07422C15.3266 1.82812 15.4906 1.25391 15.3266 0.84375C15.0805 0.351562 14.4242 0.105469 14.0141 0.433594C7.86172 3.79688 3.67812 10.3594 3.67812 17.9062C3.67812 27.3398 10.1586 35.2148 18.9359 37.3477V28.8164C19.5102 28.9805 20.1664 29.1445 20.8227 29.3086V39.4805C10.1586 38.0859 1.95547 28.9805 1.95547 17.9062C1.95547 15.1992 2.44765 12.6562 3.26797 10.2773C3.51406 9.78516 3.26797 9.21094 2.77578 9.04688C2.28359 8.80078 1.70937 9.04688 1.54531 9.62109C0.560936 12.1641 0.0687485 14.9531 0.0687485 17.9062C0.0687485 30.6211 10.0766 41.0391 22.7094 41.5312V29.5547C23.2836 29.5547 23.9398 29.5547 24.5961 29.5547V41.5312C37.2289 41.0391 47.3187 30.6211 47.3187 17.9062C47.3187 14.9531 46.7445 12.1641 45.7602 9.62109ZM29.3539 22.5C30.4203 22.5 31.3227 23.3203 31.3227 24.4688C31.3227 25.5352 30.5023 26.3555 29.3539 26.3555C28.2875 26.3555 27.4672 25.5352 27.4672 24.4688C27.4672 23.4023 28.2875 22.5 29.3539 22.5ZM17.9516 26.3555C16.8031 26.3555 15.9828 25.5352 15.9828 24.4688C15.9828 23.4023 16.8031 22.5 17.9516 22.5C19.018 22.5 19.8383 23.3203 19.8383 24.4688C19.8383 25.5352 19.018 26.3555 17.9516 26.3555Z" fill="black"/>
-</svg>
-
-          </span>
-            </div>
-            </section>
-          </div>
         </div>
+        <div className="md:flex-1">
+          <section className="border">
+            <div className="text-center">
+              <span>
+                <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  {/* O conteúdo do SVG */}
+                </svg>
+              </span>
+            </div>
+          </section>
+          <h2 className="text-3xl text-center">Segundo</h2>
+          <p className="text-lg text-center">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.
+          </p>
+        </div>
+        <div className="md:flex-1">
+          <section className="border">
+            <div className="text-center">
+              <span>
+                <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  {/* O conteúdo do SVG */}
+                </svg>
+              </span>
+            </div>
+          </section>
+          <h2 className="text-3xl text-center">Terceiro</h2>
+          <p className="text-lg text-center">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.
+          </p>
+        </div>
+        <div className="md:flex-1">
+          <section className="border">
+            <div className="text-center">
+              <span>
+                <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  {/* O conteúdo do SVG */}
+                </svg>
+              </span>
+            </div>
+          </section>
+        </div>
+      </div>
     );
-  }
+  };
   
