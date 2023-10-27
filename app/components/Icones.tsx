@@ -55,7 +55,6 @@ export default function Icones() {
           </section>
           </div>
         </div>
-      </div>
     );
   };
   
