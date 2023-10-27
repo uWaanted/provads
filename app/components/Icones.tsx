@@ -9,7 +9,7 @@ export default function Icones() {
       </div>
       <div className="md:flex md:space-x-4">
 
-        <section className="border-2 border-black md:flex-1">
+        <section className="border-2 border-black md:flex-1 w-1/2">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
