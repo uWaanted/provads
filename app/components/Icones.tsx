@@ -7,7 +7,7 @@ export default function Icones() {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum.
         </p>
       </div>
-      <div className="md:flex md:space-x-4">
+      <div className="md:flex flex-wrap">
 
         <section className="border-2 border-black md:flex-1 w-1/2">
         <div className="text-center">
