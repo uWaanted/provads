@@ -6,7 +6,7 @@ export default function Section2() {
         </div>
         <div className="md:flex-1 flex flex-col justify-center">
           <h2 className="text-3xl text-center">Magna etiam feugiat</h2>
-          <p className="text-lg text-center">
+          <p className="text-lg text-center mb-16">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
             Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.
           </p>

@@ -6,7 +6,7 @@ export default function Section1() {
       </div>
       <div className="md:flex-1 flex flex-col justify-center">
         <h2 className="text-3xl text-center">UTFPR</h2>
-        <p className="text-lg text-center">
+        <p className="text-lg text-center mb-16">
           A (modular, highly tweakable) responsive one-page template designed by UTFPR and released for free under the Creative Commons.
         </p>
         <div className="text-center mt-4">
