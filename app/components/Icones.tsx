@@ -9,7 +9,7 @@ export default function Icones() {
       </div>
       <div className="md:flex flex-wrap">
 
-        <section className="border-2 border-black md:flex-1 w-1/2">
+        <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -25,7 +25,7 @@ export default function Icones() {
         </div>
           </section>
 
-          <section className="border-2 border-black md:flex-1">
+          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -41,7 +41,7 @@ export default function Icones() {
         </div>
             
           </section>
-          <section className="border-2 border-black md:flex-1">
+          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -56,7 +56,7 @@ export default function Icones() {
           </p>
         </div>
           </section>
-          <section className="border-2 border-black md:flex-1">
+          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -72,7 +72,7 @@ export default function Icones() {
         </div>
           </section>
 
-          <section className="border-2 border-black md:flex-1">
+          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -88,7 +88,7 @@ export default function Icones() {
         </div>
             
           </section>
-          <section className="border-2 border-black md:flex-1">
+          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
