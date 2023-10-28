@@ -13,7 +13,7 @@ export default function Section3() {
           <div className="text-center mt-4">
           <a
   href="#"
-  className="border-2 border-black text-black px-8 py-4 rounded-full hover:border-cyan-500 hover:text-cyan-500 hover:bg-transparent inline-block"
+  className="border-2 border-black text-black px-16 py-8 rounded-full hover:border-cyan-500 hover:text-cyan-500 hover:bg-transparent inline-block"
 >
   Learn More
 </a>

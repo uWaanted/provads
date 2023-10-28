@@ -4,7 +4,7 @@ export default function Icones() {
       <div className="text-center md:text-left md:flex-1">
         <h4 className="text-3xl text-center md:space-x-2 mt-16 mb-6">Ícones</h4>
         <p className="text-lg text-center md:space-x-2 mb-8">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.
         </p>
       </div>
       <div className="md:flex flex-wrap">
