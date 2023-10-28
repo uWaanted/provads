@@ -13,11 +13,10 @@ export default function Section4() {
           <div className="text-center mt-4 ">
           <a
   href="#"
-  className="border-2 border-black text-black px-16 py-8 rounded-full hover:border-cyan-500 hover:text-cyan-500 hover:bg-transparent flex items-center justify-center"
+  className="border-2 border-black text-lg text-black px-16 py-8 rounded-full hover:border-cyan-500 hover:text-cyan-500 hover:bg-transparent inline-block"
 >
   Learn More
 </a>
-
 
           </div>
         </div>
