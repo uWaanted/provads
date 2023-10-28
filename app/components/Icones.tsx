@@ -4,12 +4,12 @@ export default function Icones() {
       <div className="text-center md:text-left md:flex-1">
         <h2 className="text-3xl text-center md:space-x-2">Ícones</h2>
         <p className="text-lg md:space-x-2">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.
         </p>
       </div>
       <div className="md:flex flex-wrap">
 
-        <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+        <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="42" height="38" viewBox="0 0 42 38" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -21,12 +21,12 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Primeiro</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit. 
           </p>
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+          <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="33" height="34" viewBox="0 0 33 34" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -38,12 +38,12 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Segundo</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit. 
           </p>
         </div>
             
           </section>
-          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+          <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="38" height="28" viewBox="0 0 38 28" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -55,11 +55,11 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Terceiro</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit. 
           </p>
         </div>
           </section>
-          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+          <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -71,12 +71,12 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Quarto</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit. 
           </p>
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+          <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -88,12 +88,12 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Quinto</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit. 
           </p>
         </div>
             
           </section>
-          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+          <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="39" height="40" viewBox="0 0 39 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -105,12 +105,12 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Sexto</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit. 
           </p>
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+          <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -122,12 +122,12 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Sétimo</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit. 
           </p>
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+          <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="45" height="28" viewBox="0 0 45 28" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -139,12 +139,12 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Oitavo</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.
           </p>
         </div>
             
           </section>
-          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+          <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -156,12 +156,12 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Nono</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.
           </p>
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+          <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="44" height="45" viewBox="0 0 44 45" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -173,12 +173,12 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Décimo</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit. 
           </p>
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+          <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="41" height="36" viewBox="0 0 41 36" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -190,12 +190,12 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Décimo Primeiro</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit. 
           </p>
         </div>
             
           </section>
-          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
+          <section className="border-2  w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -207,7 +207,7 @@ export default function Icones() {
         <div className="md:flex-1 text-left">
           <h2 className="text-3xl text-center">Décimo Segundo</h2>
           <p className="text-lg text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit. 
           </p>
         </div>
           </section>
