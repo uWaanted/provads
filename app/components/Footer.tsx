@@ -62,7 +62,7 @@ export default function Footer () {
                 </a>
             </div>
             <div className="text-center text-black mt-8 border-t">
-                <p>© Untitled. Design: ALUNOS WEB.</p>
+                <p className="font-bold"> © Untitled. Design: ALUNOS WEB.</p>
             </div>
         </footer>
     )
