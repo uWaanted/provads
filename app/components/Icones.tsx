@@ -9,7 +9,7 @@ export default function Icones() {
       </div>
       <div className="md:flex flex-wrap">
 
-        <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+        <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="42" height="38" viewBox="0 0 42 38" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -26,7 +26,7 @@ export default function Icones() {
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="33" height="34" viewBox="0 0 33 34" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -43,7 +43,7 @@ export default function Icones() {
         </div>
             
           </section>
-          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="38" height="28" viewBox="0 0 38 28" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -59,7 +59,7 @@ export default function Icones() {
           </p>
         </div>
           </section>
-          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -76,7 +76,7 @@ export default function Icones() {
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -93,7 +93,7 @@ export default function Icones() {
         </div>
             
           </section>
-          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="39" height="40" viewBox="0 0 39 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -110,7 +110,7 @@ export default function Icones() {
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -127,7 +127,7 @@ export default function Icones() {
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -144,7 +144,7 @@ export default function Icones() {
         </div>
             
           </section>
-          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="39" height="40" viewBox="0 0 39 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -161,7 +161,7 @@ export default function Icones() {
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="44" height="45" viewBox="0 0 44 45" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -178,7 +178,7 @@ export default function Icones() {
         </div>
           </section>
 
-          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="41" height="36" viewBox="0 0 41 36" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -195,7 +195,7 @@ export default function Icones() {
         </div>
             
           </section>
-          <section className="border-2 border-black w-full md:w-1/2 p-2 mb-4">
+          <section className="border-2 border-black w-full md:w-1/3 p-2 mb-4">
         <div className="text-center">
               <span>
               <svg width="48" height="42" viewBox="0 0 48 42" fill="none" xmlns="http://www.w3.org/2000/svg">
